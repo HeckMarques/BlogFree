@@ -1,5 +1,5 @@
 # BlogFree
-Blog com cadastro de artigos e Categories (Node.js, Express, EJS, MySql, TinyMCE)
+Blog com cadastro de artigos e categorias (Node.js, Express, EJS, MySql, TinyMCE)
 
 # Demo
  Acesse: http://blogfree-com-br.umbler.net/
