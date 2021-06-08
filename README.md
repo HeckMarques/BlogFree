@@ -2,10 +2,11 @@
 Blog com cadastro de artigos e categorias (Node.js, Express, EJS, MySql, TinyMCE)
 
 # Demo
-Acesse: http://blogfree-com-br.umbler.net/ <br>
+Home page: http://blogfree-com-br.umbler.net/ <br>
 Administrativo: http://blogfree-com-br.umbler.net/login <br>
-    * email: teste2@teste.com
-    * senha: 123
+1. e-mail: teste2@teste.com
+2. senha: 123
+    
 
 ### Rodar projeto
 Certifique-se de ter instalado na máquina o Node.js e o mysql <br>
